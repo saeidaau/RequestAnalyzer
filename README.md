@@ -10,7 +10,7 @@ A request analyzer for a server side web application to handle millions of GET/P
 ## General info:
 
 This project is responsible to handle high amount of HTTP requests on the server side.
-The project is implemented in C# language and we use the `sql server` as the database. We generate `memory optimized table` to have the maximum performance.
+The project is implemented in `C# language` and we use the `sql server` as the database. We generate `memory optimized table` to have the maximum performance.
 We could also use other in memory databases e.g. `Redis` but I think our method is almost the same.
 
 The most important part is in `RequestAnalyzer/RequestAnalyzer/Controllers/analyticsController.cs`.
