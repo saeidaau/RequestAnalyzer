@@ -3,10 +3,9 @@ A request analyzer for a server side web application to handle millions of GET/P
 
 # Table of contents
 - General info
-- Screenshots
+- In depth explanation
 - Technologies
-- Setup
-- Features
-- Status
-- Inspiration
 - Contact
+
+## General info:
+The most important part is in `RequestAnalyzer/RequestAnalyzer/Controllers/requestController.cs`
