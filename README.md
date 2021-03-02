@@ -7,6 +7,8 @@ A request analyzer for a server side web application to handle millions of GET/P
 - Technologies
 - Contact
 
+/bintray/:interval/:subject/:repo/:packageName/:version*
+
 ## General info:
 
 This project is responsible to handle high amount of HTTP requests on the server side.
