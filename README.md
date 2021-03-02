@@ -7,7 +7,7 @@ A request analyzer for a server side web application to handle millions of GET/P
 - Technologies
 - Contact
 
-/bintray/:interval/:subject/:repo/:packageName/:version*
+![GitHub all releases](https://img.shields.io/github/downloads/saeidaau/RequestAnalyzer/total?style=plastic)
 
 ## General info:
 
